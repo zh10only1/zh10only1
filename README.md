@@ -71,14 +71,53 @@ Most of my production work lives in private/client repositories, so this profile
 
 ## `Toolkit`
 
-```text
-• Azure AI Foundry | Azure AI Search | Google Agent Development Kit | Mastra AI | RAG Development
-• Python | FastAPI | TypeScript | React.js | Next.js | Node.js
-• Azure SQL | Azure Cosmos DB | MongoDB | Supabase | Firebase | MongoDB Vector Search | Pinecone
-• Auth0 | Microsoft Entra External ID | Supabase Auth | Firebase Auth
-• Microsoft Azure | Azure Entra ID | Azure DevOps
-```
+<div align="center">
 
+<p>
+  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Search-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
+  <img src="https://img.shields.io/badge/Google%20Agent%20Development%20Kit-1E1E2E?style=flat-square&logo=google&logoColor=A6E3A1" />
+  <img src="https://img.shields.io/badge/Mastra%20AI-1E1E2E?style=flat-square&logoColor=CBA6F7" />
+  <img src="https://img.shields.io/badge/RAG%20Development-1E1E2E?style=flat-square&logoColor=CBA6F7" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1E1E2E?style=flat-square&logo=python&logoColor=F9E2AF" />
+  <img src="https://img.shields.io/badge/FastAPI-1E1E2E?style=flat-square&logo=fastapi&logoColor=94E2D5" />
+  <img src="https://img.shields.io/badge/TypeScript-1E1E2E?style=flat-square&logo=typescript&logoColor=89B4FA" />
+  <img src="https://img.shields.io/badge/React.js-1E1E2E?style=flat-square&logo=react&logoColor=89DCEB" />
+  <img src="https://img.shields.io/badge/Next.js-1E1E2E?style=flat-square&logo=nextdotjs&logoColor=CDD6F4" />
+  <img src="https://img.shields.io/badge/Node.js-1E1E2E?style=flat-square&logo=nodedotjs&logoColor=A6E3A1" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure%20SQL-1E1E2E?style=flat-square&logoColor=89B4FA" />
+  <img src="https://img.shields.io/badge/Azure%20Cosmos%20DB-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=CBA6F7" />
+  <img src="https://img.shields.io/badge/MongoDB-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1" />
+  <img src="https://img.shields.io/badge/Supabase-1E1E2E?style=flat-square&logo=supabase&logoColor=A6E3A1" />
+  <img src="https://img.shields.io/badge/Firebase-1E1E2E?style=flat-square&logo=firebase&logoColor=F9E2AF" />
+  <img src="https://img.shields.io/badge/MongoDB%20Vector%20Search-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1" />
+  <img src="https://img.shields.io/badge/Pinecone-1E1E2E?style=flat-square&logoColor=94E2D5" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Auth0-1E1E2E?style=flat-square&logo=auth0&logoColor=FAB387" />
+  <img src="https://img.shields.io/badge/Microsoft%20Entra%20External%20ID-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
+  <img src="https://img.shields.io/badge/Supabase%20Auth-1E1E2E?style=flat-square&logo=supabase&logoColor=A6E3A1" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-1E1E2E?style=flat-square&logo=firebase&logoColor=F9E2AF" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
+  <img src="https://img.shields.io/badge/Azure%20Entra%20ID-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-1E1E2E?style=flat-square&logo=azuredevops&logoColor=89B4FA" />
+  <img src="https://img.shields.io/badge/Hetzner-1E1E2E?style=flat-square&logo=hetzner&logoColor=F38BA8" />
+  <img src="https://img.shields.io/badge/Vercel-1E1E2E?style=flat-square&logo=vercel&logoColor=CDD6F4" />
+  <img src="https://img.shields.io/badge/Render-1E1E2E?style=flat-square&logo=render&logoColor=94E2D5" />
+  <img src="https://img.shields.io/badge/Docker-1E1E2E?style=flat-square&logo=docker&logoColor=89B4FA" />
+</p>
+
+</div>
 ---
 
 ## `Stats`
