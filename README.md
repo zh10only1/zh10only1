@@ -121,7 +121,7 @@ Most of my production work lives in private/client repositories, so this profile
   <img src="https://img.shields.io/badge/Microsoft%20Azure-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
   <img src="https://img.shields.io/badge/Azure%20Entra%20ID-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-1E1E2E?style=flat-square&logo=azuredevops&logoColor=89B4FA" />
-  <img src="https://img.shields.io/badge/Hetzner-1E1E2E?style=flat-square&logo=hetzner&logoColor=F38BA8" />
+  <img src="https://img.shields.io/badge/Vultr-1E1E2E?style=flat-square&logo=vultr&logoColor=89B4FA" />
   <img src="https://img.shields.io/badge/Vercel-1E1E2E?style=flat-square&logo=vercel&logoColor=CDD6F4" />
   <img src="https://img.shields.io/badge/Render-1E1E2E?style=flat-square&logo=render&logoColor=94E2D5" />
   <img src="https://img.shields.io/badge/Docker-1E1E2E?style=flat-square&logo=docker&logoColor=89B4FA" />
