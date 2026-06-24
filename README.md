@@ -71,40 +71,13 @@ Most of my production work lives in private/client repositories, so this profile
 
 ## `Toolkit`
 
-<div align="center">
-
-### AI / Data / Search
-![◆ Azure AI Foundry](https://img.shields.io/badge/◆%20Azure%20AI%20Foundry-1E1E2E?style=flat-square&logoColor=89B4FA)
-![✦ Azure Foundry Agent Service](https://img.shields.io/badge/✦%20Azure%20Foundry%20Agent%20Service-1E1E2E?style=flat-square&logoColor=89B4FA)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-1E1E2E?style=flat-square&logo=google&logoColor=A6E3A1)
-![Mastra](https://img.shields.io/badge/Mastra-1E1E2E?style=flat-square&logoColor=CBA6F7)
-![Claude SDK](https://img.shields.io/badge/Claude%20SDK-1E1E2E?style=flat-square&logo=anthropic&logoColor=F9E2AF)
-![RAG](https://img.shields.io/badge/RAG-1E1E2E?style=flat-square&logoColor=CBA6F7)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-1E1E2E?style=flat-square&logoColor=F9E2AF)
-![MongoDB Vector Search](https://img.shields.io/badge/MongoDB%20Vector%20Search-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1)
-
-### Frontend / Backend
-![TypeScript](https://img.shields.io/badge/TypeScript-1E1E2E?style=flat-square&logo=typescript&logoColor=89B4FA)
-![Python](https://img.shields.io/badge/Python-1E1E2E?style=flat-square&logo=python&logoColor=F9E2AF)
-![Next.js](https://img.shields.io/badge/Next.js-1E1E2E?style=flat-square&logo=nextdotjs&logoColor=CDD6F4)
-![React](https://img.shields.io/badge/React-1E1E2E?style=flat-square&logo=react&logoColor=89DCEB)
-![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=flat-square&logo=nodedotjs&logoColor=A6E3A1)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E1E2E?style=flat-square&logo=fastapi&logoColor=94E2D5)
-![Express.js](https://img.shields.io/badge/Express.js-1E1E2E?style=flat-square&logo=express&logoColor=CDD6F4)
-![Django](https://img.shields.io/badge/Django-1E1E2E?style=flat-square&logo=django&logoColor=A6E3A1)
-
-### Cloud / Infra / Product Plumbing
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA)
-![▤ Azure SQL](https://img.shields.io/badge/▤%20Azure%20SQL-1E1E2E?style=flat-square&logoColor=89B4FA)
-![◈ Azure Cosmos DB](https://img.shields.io/badge/◈%20Azure%20Cosmos%20DB-1E1E2E?style=flat-square&logoColor=CBA6F7)
-![MongoDB](https://img.shields.io/badge/MongoDB-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1)
-![Supabase](https://img.shields.io/badge/Supabase-1E1E2E?style=flat-square&logo=supabase&logoColor=A6E3A1)
-![Firebase](https://img.shields.io/badge/Firebase-1E1E2E?style=flat-square&logo=firebase&logoColor=F9E2AF)
-![Auth0](https://img.shields.io/badge/Auth0-1E1E2E?style=flat-square&logo=auth0&logoColor=FAB387)
-![Stripe](https://img.shields.io/badge/Stripe-1E1E2E?style=flat-square&logo=stripe&logoColor=CBA6F7)
-![◌ Twilio](https://img.shields.io/badge/◌%20Twilio-1E1E2E?style=flat-square&logoColor=F38BA8)
-
-</div>
+```text
+• Azure AI Foundry | Azure AI Search | Google Agent Development Kit | Mastra AI | RAG Development
+• Python | FastAPI | TypeScript | React.js | Next.js | Node.js
+• Azure SQL | Azure Cosmos DB | MongoDB | Supabase | Firebase | MongoDB Vector Search | Pinecone
+• Auth0 | Microsoft Entra External ID | Supabase Auth | Firebase Auth
+• Microsoft Azure | Azure Entra ID | Azure DevOps
+```
 
 ---
 
