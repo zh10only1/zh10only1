@@ -73,6 +73,8 @@ Most of my production work lives in private/client repositories, so this profile
 
 <div align="center">
 
+### AI
+
 <p>
   <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
   <img src="https://img.shields.io/badge/Azure%20AI%20Search-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
@@ -80,6 +82,8 @@ Most of my production work lives in private/client repositories, so this profile
   <img src="https://img.shields.io/badge/Mastra%20AI-1E1E2E?style=flat-square&logoColor=CBA6F7" />
   <img src="https://img.shields.io/badge/RAG%20Development-1E1E2E?style=flat-square&logoColor=CBA6F7" />
 </p>
+
+### Frontend / Backend
 
 <p>
   <img src="https://img.shields.io/badge/Python-1E1E2E?style=flat-square&logo=python&logoColor=F9E2AF" />
@@ -89,6 +93,8 @@ Most of my production work lives in private/client repositories, so this profile
   <img src="https://img.shields.io/badge/Next.js-1E1E2E?style=flat-square&logo=nextdotjs&logoColor=CDD6F4" />
   <img src="https://img.shields.io/badge/Node.js-1E1E2E?style=flat-square&logo=nodedotjs&logoColor=A6E3A1" />
 </p>
+
+### Database
 
 <p>
   <img src="https://img.shields.io/badge/Azure%20SQL-1E1E2E?style=flat-square&logoColor=89B4FA" />
@@ -100,12 +106,16 @@ Most of my production work lives in private/client repositories, so this profile
   <img src="https://img.shields.io/badge/Pinecone-1E1E2E?style=flat-square&logoColor=94E2D5" />
 </p>
 
+### Auth Services
+
 <p>
   <img src="https://img.shields.io/badge/Auth0-1E1E2E?style=flat-square&logo=auth0&logoColor=FAB387" />
   <img src="https://img.shields.io/badge/Microsoft%20Entra%20External%20ID-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
   <img src="https://img.shields.io/badge/Supabase%20Auth-1E1E2E?style=flat-square&logo=supabase&logoColor=A6E3A1" />
   <img src="https://img.shields.io/badge/Firebase%20Auth-1E1E2E?style=flat-square&logo=firebase&logoColor=F9E2AF" />
 </p>
+
+### Cloud Stuff
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
@@ -118,7 +128,6 @@ Most of my production work lives in private/client repositories, so this profile
 </p>
 
 </div>
----
 
 ## `Stats`
 
