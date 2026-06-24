@@ -43,7 +43,7 @@
     <text x="70" y="178" class="mono title">M Zain Ul Hassan Baloch</text>
 
     <text x="70" y="222" class="mono mauve" font-size="25">AI/Full-Stack Engineer</text>
-    <text x="430" y="222" class="mono muted" font-size="25">/</text>
+    <text x="430" y="222" class="mono muted" font-size="25">|</text>
     <text x="465" y="222" class="mono teal" font-size="25">Technical Partner</text>
 
     <text x="70" y="275" class="mono green" font-size="22">RAG · agents · SaaS platforms · cloud apps</text>
