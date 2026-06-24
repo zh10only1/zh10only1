@@ -4,34 +4,26 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=89B4FA&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Full-Stack+Software+Engineer;RAG+systems+%7C+AI+agents+%7C+SaaS+platforms;from+concepts+on+paper+to+production-grade+AI+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=89B4FA&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Technical+Partner;Full-Stack+Software+Engineer;RAG+systems+%7C+AI+agents+%7C+SaaS+platforms)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/mzuhb/"><img src="https://img.shields.io/badge/linkedin-mzuhb-89B4FA?style=flat-square&logo=linkedin&logoColor=11111B&labelColor=1E1E2E" /></a>
-  <a href="mailto:m.zainhassanbaloch@gmail.com"><img src="https://img.shields.io/badge/email-m.zainhassanbaloch%40gmail.com-F38BA8?style=flat-square&logo=gmail&logoColor=11111B&labelColor=1E1E2E" /></a>
-  <a href="https://github.com/zh10only1"><img src="https://img.shields.io/badge/github-zh10only1-CBA6F7?style=flat-square&logo=github&logoColor=11111B&labelColor=1E1E2E" /></a>
+  <a href="https://www.linkedin.com/in/mzuhb/"><img src="https://img.shields.io/badge/linkedin-mzuhb-89B4FA?style=flat-square&logo=linkedin&logoColor=CDD6F4&labelColor=1E1E2E" /></a>
+  <a href="mailto:m.zainhassanbaloch@gmail.com"><img src="https://img.shields.io/badge/email-m.zainhassanbaloch%40gmail.com-F38BA8?style=flat-square&logo=gmail&logoColor=CDD6F4&labelColor=1E1E2E" /></a>
+  <a href="https://github.com/zh10only1"><img src="https://img.shields.io/badge/github-zh10only1-CBA6F7?style=flat-square&logo=github&logoColor=CDD6F4&labelColor=1E1E2E" /></a>
 </p>
 
 </div>
 
-```text
-╭─ zain@github ~/profile ─────────────────────────────────────────────╮
-│ status     AI Engineer + Full-Stack Software Engineer               │
-│ focus      AI SaaS · RAG · agents · product architecture · cloud     │
-│ stack      TypeScript · Python · Next.js · React · FastAPI · Azure   │
-╰─────────────────────────────────────────────────────────────────────╯
-```
-
 ## `whoami`
 
-```ts
-type Zain = {
-  role: "AI Engineer" | "Full-Stack Software Engineer" | "SaaS Product Builder";
-  company: "Outstep Technologies";
-  focus: ["AI SaaS", "RAG", "AI Agents", "Cloud", "Product Architecture"];
-  stack: ["TypeScript", "Python", "Next.js", "React", "FastAPI", "Node.js", "Azure"];
-  operatingMode: "understand the problem, architect the system, then ship it";
-};
+```text
+╭─ zain@github ~/profile ───────────────────────────────╮
+│ status   AI Engineer + Technical Partner              │
+│ company  Outstep Technologies                         │
+│ focus    AI SaaS · RAG · agents · cloud               │
+│ stack    TypeScript · Python · Next.js · FastAPI       │
+│ mode     understand the problem · architect · ship     │
+╰───────────────────────────────────────────────────────╯
 ```
 
 On a journey to craft impactful AI-driven solutions.
@@ -44,34 +36,49 @@ Most of my production work lives in private/client repositories, so this profile
 
 ---
 
-## what i can help with
+## `I can help with`
 
 ```text
-╭─ I CAN HELP WITH ─────────────────────────────────────────────╮
-│ AI SaaS · RAG systems · agent workflows · full-stack product   │
-╰───────────────────────────────────────────────────────────────╯
+╭─ I CAN HELP WITH ───────────────────────────────╮
+│ AI SaaS · RAG · agents · full-stack product     │
+╰─────────────────────────────────────────────────╯
 ```
 
-| area | how i help |
-|---|---|
-| **AI systems** | Conversational assistants, RAG pipelines, semantic search, memory/context architecture, multi-model AI flows. |
-| **Agent workflows** | Tool-using agents, structured AI workflows, automation loops, provider abstraction and production guardrails. |
-| **Full-stack SaaS** | Dashboards, APIs, auth, RBAC, subscriptions, billing, file workflows, admin panels and user-facing product flows. |
-| **Cloud and data** | Azure services, MongoDB, Supabase, Firebase, vector search, storage, deployment and release workflows. |
-| **Product engineering** | Turning unclear product ideas into architecture, prototypes, production apps and iterative improvements. |
+<table>
+<tr>
+<td><strong>AI systems</strong></td>
+<td>Conversational assistants, RAG pipelines, semantic search, memory/context architecture, multi-model AI flows.</td>
+</tr>
+<tr>
+<td><strong>Agent workflows</strong></td>
+<td>Tool-using agents, structured AI workflows, automation loops, provider abstraction and production guardrails.</td>
+</tr>
+<tr>
+<td><strong>Full-stack SaaS</strong></td>
+<td>Dashboards, APIs, auth, RBAC, subscriptions, billing, file workflows, admin panels and user-facing product flows.</td>
+</tr>
+<tr>
+<td><strong>Cloud and data</strong></td>
+<td>Azure services, MongoDB, Supabase, Firebase, vector search, storage, deployment and release workflows.</td>
+</tr>
+<tr>
+<td><strong>Product engineering</strong></td>
+<td>Turning unclear product ideas into architecture, prototypes, production apps and iterative improvements.</td>
+</tr>
+</table>
 
 ---
 
-## toolkit
+## `toolkit`
 
 <div align="center">
 
 ### ai / data / search
-![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA)
-![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA)
+![◆ Azure AI Foundry](https://img.shields.io/badge/◆%20Azure%20AI%20Foundry-1E1E2E?style=flat-square&logoColor=89B4FA)
+![⌕ Azure AI Search](https://img.shields.io/badge/⌕%20Azure%20AI%20Search-1E1E2E?style=flat-square&logoColor=89B4FA)
 ![OpenAI](https://img.shields.io/badge/OpenAI-1E1E2E?style=flat-square&logo=openai&logoColor=A6E3A1)
-![RAG](https://img.shields.io/badge/RAG-1E1E2E?style=flat-square&logo=googlegemini&logoColor=CBA6F7)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-1E1E2E?style=flat-square&logo=robotframework&logoColor=F9E2AF)
+![✦ RAG](https://img.shields.io/badge/✦%20RAG-1E1E2E?style=flat-square&logoColor=CBA6F7)
+![▣ AI Agents](https://img.shields.io/badge/▣%20AI%20Agents-1E1E2E?style=flat-square&logoColor=F9E2AF)
 ![MongoDB Vector Search](https://img.shields.io/badge/MongoDB%20Vector%20Search-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1)
 
 ### frontend / backend
@@ -86,20 +93,20 @@ Most of my production work lives in private/client repositories, so this profile
 
 ### cloud / infra / product plumbing
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-1E1E2E?style=flat-square&logo=microsoftsqlserver&logoColor=89B4FA)
-![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=CBA6F7)
+![▤ Azure SQL](https://img.shields.io/badge/▤%20Azure%20SQL-1E1E2E?style=flat-square&logoColor=89B4FA)
+![◈ Azure Cosmos DB](https://img.shields.io/badge/◈%20Azure%20Cosmos%20DB-1E1E2E?style=flat-square&logoColor=CBA6F7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1)
 ![Supabase](https://img.shields.io/badge/Supabase-1E1E2E?style=flat-square&logo=supabase&logoColor=A6E3A1)
 ![Firebase](https://img.shields.io/badge/Firebase-1E1E2E?style=flat-square&logo=firebase&logoColor=F9E2AF)
 ![Auth0](https://img.shields.io/badge/Auth0-1E1E2E?style=flat-square&logo=auth0&logoColor=FAB387)
 ![Stripe](https://img.shields.io/badge/Stripe-1E1E2E?style=flat-square&logo=stripe&logoColor=CBA6F7)
-![Twilio](https://img.shields.io/badge/Twilio-1E1E2E?style=flat-square&logo=twilio&logoColor=F38BA8)
+![◌ Twilio](https://img.shields.io/badge/◌%20Twilio-1E1E2E?style=flat-square&logoColor=F38BA8)
 
 </div>
 
 ---
 
-## github telemetry
+## `stats`
 
 <div align="center">
 
@@ -109,25 +116,17 @@ Most of my production work lives in private/client repositories, so this profile
 </div>
 
 ```text
-╭─ note ──────────────────────────────────────────────────────────────╮
-│ a lot of my serious product work is client/private, so github stats │
-│ are not the full story. the better signal is what has been shipped. │
-╰─────────────────────────────────────────────────────────────────────╯
+╭─ note ────────────────────────────────────────────────╮
+│ most serious product work is client/private, so       │
+│ github stats are not the full story. shipped work is. │
+╰───────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## public repo
+## `public work`
 
-```text
-╭─ ./public ──────────────────────────────────────────────────────────╮
-│ xraycore-vless-reality-guide                                        │
-│ practical guide for a self-hosted private proxy tunnel using        │
-│ xray-core, 3x-ui, VLESS and REALITY                                 │
-╰─────────────────────────────────────────────────────────────────────╯
-```
-
-[`open repo`](https://github.com/zh10only1/xraycore-vless-reality-guide)
+- [![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=CDD6F4)](https://github.com/zh10only1/xraycore-vless-reality-guide) [![xraycore-vless-reality-guide](https://img.shields.io/badge/xraycore--vless--reality--guide-89B4FA?style=flat-square&logoColor=11111B)](https://github.com/zh10only1/xraycore-vless-reality-guide) - practical guide for a self-hosted private proxy tunnel using Xray-core, 3x-ui, VLESS and REALITY.
 
 <div align="center">
 

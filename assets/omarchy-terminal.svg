@@ -5,13 +5,8 @@
       <stop offset="0.55" stop-color="#151827"/>
       <stop offset="1" stop-color="#090D13"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#89B4FA"/>
-      <stop offset="0.5" stop-color="#CBA6F7"/>
-      <stop offset="1" stop-color="#94E2D5"/>
-    </linearGradient>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -28,60 +23,48 @@
       .peach { fill: #FAB387; }
       .cursor { animation: blink 1s steps(2,start) infinite; }
       .float { animation: float 6s ease-in-out infinite; }
-      .scan { animation: scan 5.5s linear infinite; opacity: .22; }
       @keyframes blink { 50% { opacity: 0; } }
-      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
-      @keyframes scan { 0% { transform: translateY(-80px); } 100% { transform: translateY(470px); } }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
     </style>
   </defs>
 
   <rect width="1200" height="430" rx="26" fill="url(#bg)"/>
   <rect x="1.5" y="1.5" width="1197" height="427" rx="24.5" stroke="#313244" stroke-width="3"/>
   <rect x="34" y="38" width="1132" height="354" rx="10" fill="#111520" stroke="#45475A" stroke-width="2"/>
-
-  <g class="scan">
-    <rect x="36" y="0" width="1128" height="65" fill="url(#accent)" opacity="0.22"/>
-  </g>
+  <rect x="35" y="100" width="1130" height="56" fill="#181B2A" opacity="0.82"/>
 
   <circle cx="64" cy="68" r="8" fill="#F38BA8"/>
   <circle cx="90" cy="68" r="8" fill="#F9E2AF"/>
   <circle cx="116" cy="68" r="8" fill="#A6E3A1"/>
-  <text x="1052" y="75" class="mono muted" font-size="18">~/github/zh10only1</text>
+  <text x="1010" y="75" class="mono muted" font-size="17">~/profile</text>
 
   <g class="float" filter="url(#glow)">
     <text x="70" y="130" class="mono blue" font-size="24">➜</text>
     <text x="108" y="130" class="mono muted" font-size="24">whoami</text>
-    <text x="70" y="177" class="mono title">M Zain Ul Hassan Baloch</text>
-    <text x="70" y="220" class="mono mauve" font-size="25">AI Engineer</text>
-    <text x="252" y="220" class="mono muted" font-size="25">/</text>
-    <text x="284" y="220" class="mono teal" font-size="25">Full-Stack Software Engineer</text>
-    <text x="70" y="265" class="mono green" font-size="23">building AI SaaS, RAG systems, agent workflows and cloud-native apps</text>
-    <text x="70" y="310" class="mono peach" font-size="22">from concepts on paper to production-grade AI applications</text>
-    <rect x="70" y="342" width="880" height="1.5" fill="#45475A"/>
-    <text x="70" y="374" class="mono muted" font-size="20">stack:</text>
-    <text x="150" y="374" class="mono blue" font-size="20">TypeScript</text>
-    <text x="270" y="374" class="mono muted" font-size="20">·</text>
-    <text x="294" y="374" class="mono blue" font-size="20">Python</text>
-    <text x="374" y="374" class="mono muted" font-size="20">·</text>
-    <text x="398" y="374" class="mono blue" font-size="20">Next.js</text>
-    <text x="492" y="374" class="mono muted" font-size="20">·</text>
-    <text x="516" y="374" class="mono blue" font-size="20">FastAPI</text>
-    <text x="610" y="374" class="mono muted" font-size="20">·</text>
-    <text x="634" y="374" class="mono blue" font-size="20">Azure</text>
-    <text x="710" y="374" class="mono muted" font-size="20">·</text>
-    <text x="734" y="374" class="mono blue" font-size="20">MongoDB</text>
-    <rect x="915" y="357" width="12" height="24" fill="#CDD6F4" class="cursor"/>
-  </g>
 
-  <g opacity="0.72">
-    <rect x="905" y="120" width="210" height="132" rx="6" fill="#181B2A" stroke="#CBA6F7" stroke-width="2"/>
-    <text x="930" y="158" class="mono mauve" font-size="18">cpu</text>
-    <text x="982" y="158" class="mono muted" font-size="18">ai loops</text>
-    <text x="930" y="196" class="mono teal" font-size="16">rag</text>
-    <rect x="982" y="184" width="86" height="10" fill="#45475A"/>
-    <rect x="982" y="184" width="64" height="10" fill="#89B4FA"/>
-    <text x="930" y="226" class="mono teal" font-size="16">ship</text>
-    <rect x="982" y="214" width="86" height="10" fill="#45475A"/>
-    <rect x="982" y="214" width="72" height="10" fill="#A6E3A1"/>
+    <text x="70" y="178" class="mono title">M Zain Ul Hassan Baloch</text>
+
+    <text x="70" y="222" class="mono mauve" font-size="25">AI Engineer</text>
+    <text x="252" y="222" class="mono muted" font-size="25">/</text>
+    <text x="284" y="222" class="mono teal" font-size="25">Technical Partner</text>
+    <text x="70" y="265" class="mono blue" font-size="23">Full-Stack Software Engineer</text>
+
+    <text x="70" y="309" class="mono green" font-size="22">RAG · agents · SaaS platforms · cloud apps</text>
+    <text x="70" y="349" class="mono peach" font-size="21">from concepts to production-grade AI apps</text>
+
+    <rect x="70" y="354" width="900" height="1.5" fill="#45475A"/>
+    <text x="70" y="380" class="mono muted" font-size="17">stack:</text>
+    <text x="140" y="380" class="mono blue" font-size="17">TypeScript</text>
+    <text x="244" y="380" class="mono muted" font-size="17">·</text>
+    <text x="266" y="380" class="mono blue" font-size="17">Python</text>
+    <text x="338" y="380" class="mono muted" font-size="17">·</text>
+    <text x="360" y="380" class="mono blue" font-size="17">Next.js</text>
+    <text x="444" y="380" class="mono muted" font-size="17">·</text>
+    <text x="466" y="380" class="mono blue" font-size="17">React</text>
+    <text x="530" y="380" class="mono muted" font-size="17">·</text>
+    <text x="552" y="380" class="mono blue" font-size="17">FastAPI</text>
+    <text x="642" y="380" class="mono muted" font-size="17">·</text>
+    <text x="664" y="380" class="mono blue" font-size="17">Azure</text>
+    <rect x="740" y="364" width="10" height="20" fill="#CDD6F4" class="cursor"/>
   </g>
 </svg>
