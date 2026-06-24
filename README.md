@@ -73,7 +73,7 @@ Most of my production work lives in private/client repositories, so this profile
 
 <div align="center">
 
-### AI
+### AI / Data
 
 <p>
   <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
@@ -94,7 +94,7 @@ Most of my production work lives in private/client repositories, so this profile
   <img src="https://img.shields.io/badge/Node.js-1E1E2E?style=flat-square&logo=nodedotjs&logoColor=A6E3A1" />
 </p>
 
-### Database
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/Azure%20SQL-1E1E2E?style=flat-square&logoColor=89B4FA" />
@@ -115,7 +115,7 @@ Most of my production work lives in private/client repositories, so this profile
   <img src="https://img.shields.io/badge/Firebase%20Auth-1E1E2E?style=flat-square&logo=firebase&logoColor=F9E2AF" />
 </p>
 
-### Cloud Stuff
+### Cloud / Infra
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA" />
