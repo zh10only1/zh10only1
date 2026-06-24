@@ -75,10 +75,12 @@ Most of my production work lives in private/client repositories, so this profile
 
 ### AI / Data / Search
 ![◆ Azure AI Foundry](https://img.shields.io/badge/◆%20Azure%20AI%20Foundry-1E1E2E?style=flat-square&logoColor=89B4FA)
-![⌕ Azure AI Search](https://img.shields.io/badge/⌕%20Azure%20AI%20Search-1E1E2E?style=flat-square&logoColor=89B4FA)
-![OpenAI](https://img.shields.io/badge/OpenAI-1E1E2E?style=flat-square&logo=openai&logoColor=A6E3A1)
-![✦ RAG](https://img.shields.io/badge/✦%20RAG-1E1E2E?style=flat-square&logoColor=CBA6F7)
-![▣ AI Agents](https://img.shields.io/badge/▣%20AI%20Agents-1E1E2E?style=flat-square&logoColor=F9E2AF)
+![✦ Azure Foundry Agent Service](https://img.shields.io/badge/✦%20Azure%20Foundry%20Agent%20Service-1E1E2E?style=flat-square&logoColor=89B4FA)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-1E1E2E?style=flat-square&logo=google&logoColor=A6E3A1)
+![Mastra](https://img.shields.io/badge/Mastra-1E1E2E?style=flat-square&logoColor=CBA6F7)
+![Claude SDK](https://img.shields.io/badge/Claude%20SDK-1E1E2E?style=flat-square&logo=anthropic&logoColor=F9E2AF)
+![RAG](https://img.shields.io/badge/RAG-1E1E2E?style=flat-square&logoColor=CBA6F7)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-1E1E2E?style=flat-square&logoColor=F9E2AF)
 ![MongoDB Vector Search](https://img.shields.io/badge/MongoDB%20Vector%20Search-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1)
 
 ### Frontend / Backend
