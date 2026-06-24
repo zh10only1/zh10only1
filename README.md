@@ -1,18 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:111827&height=190&section=header&text=M%20Zain%20Ul%20Hassan%20Baloch&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Software%20Engineer%20%E2%80%A2%20SaaS%20Product%20Builder&descAlignY=55&descSize=16" />
+<img src="./assets/omarchy-terminal.svg" alt="terminal themed banner for M Zain Ul Hassan Baloch" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=I+build+AI-powered+SaaS+products.;RAG%2C+agents%2C+memory+systems%2C+and+cloud-native+apps.;From+messy+ideas+to+production-grade+software.)](https://git.io/typing-svg)
+<br />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=89B4FA&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Full-Stack+Software+Engineer;RAG+systems+%7C+AI+agents+%7C+SaaS+platforms;from+concepts+on+paper+to+production-grade+AI+applications)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/mzuhb/"><img src="https://img.shields.io/badge/LinkedIn-M+Zain+Ul+Hassan+Baloch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:m.zainhassanbaloch@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/zh10only1"><img src="https://img.shields.io/badge/GitHub-zh10only1-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mzuhb/"><img src="https://img.shields.io/badge/linkedin-mzuhb-89B4FA?style=flat-square&logo=linkedin&logoColor=11111B&labelColor=1E1E2E" /></a>
+  <a href="mailto:m.zainhassanbaloch@gmail.com"><img src="https://img.shields.io/badge/email-m.zainhassanbaloch%40gmail.com-F38BA8?style=flat-square&logo=gmail&logoColor=11111B&labelColor=1E1E2E" /></a>
+  <a href="https://github.com/zh10only1"><img src="https://img.shields.io/badge/github-zh10only1-CBA6F7?style=flat-square&logo=github&logoColor=11111B&labelColor=1E1E2E" /></a>
 </p>
 
 </div>
 
----
+```text
+╭─ zain@github ~/profile ─────────────────────────────────────────────╮
+│ status     AI Engineer + Full-Stack Software Engineer               │
+│ focus      AI SaaS · RAG · agents · product architecture · cloud     │
+│ stack      TypeScript · Python · Next.js · React · FastAPI · Azure   │
+╰─────────────────────────────────────────────────────────────────────╯
+```
 
 ## `whoami`
 
@@ -36,104 +44,93 @@ Most of my production work lives in private/client repositories, so this profile
 
 ---
 
-## What I build
+## what i can help with
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```text
+╭─ I CAN HELP WITH ─────────────────────────────────────────────╮
+│ AI SaaS · RAG systems · agent workflows · full-stack product   │
+╰───────────────────────────────────────────────────────────────╯
+```
 
-### AI product systems
-- Conversational AI assistants
-- RAG and semantic search pipelines
-- Long-term memory/context architectures
-- Multi-model AI provider abstractions
-- AI workflows for finance, healthcare, real estate, and operations
-
-</td>
-<td width="50%" valign="top">
-
-### Full-stack SaaS platforms
-- Multi-tenant dashboards
-- Auth, RBAC, subscriptions, billing
-- File upload and storage workflows
-- Admin analytics and usage tracking
-- Cloud deployment and release workflows
-
-</td>
-</tr>
-</table>
+| area | how i help |
+|---|---|
+| **AI systems** | Conversational assistants, RAG pipelines, semantic search, memory/context architecture, multi-model AI flows. |
+| **Agent workflows** | Tool-using agents, structured AI workflows, automation loops, provider abstraction and production guardrails. |
+| **Full-stack SaaS** | Dashboards, APIs, auth, RBAC, subscriptions, billing, file workflows, admin panels and user-facing product flows. |
+| **Cloud and data** | Azure services, MongoDB, Supabase, Firebase, vector search, storage, deployment and release workflows. |
+| **Product engineering** | Turning unclear product ideas into architecture, prototypes, production apps and iterative improvements. |
 
 ---
 
-## Product work I’m proud of
-
-| Product | What it does | Engineering scope |
-|---|---|---|
-| **Earthly Insight** | Eco-conscious AI assistant for writing, research, coding, document/image-assisted chat, subscriptions, and impact tracking. | Full-stack AI engineering, memory architecture, streaming chat, multi-model support, Auth0/Firebase, Stripe/Apple flows, analytics, deployment. |
-| **Altruva AI** | Multi-tenant nonprofit finance SaaS with Tally, a source-grounded assistant for budgets, audits, forecasts, grants, accounting data, and CRM context. | AI/SaaS architecture, document workflows, team/admin flows, source-grounded retrieval, product execution. |
-| **MedHealix** | Co-branded non-clinical care platform for patients, caregivers, and care circles managing support around medical journeys. | Product architecture, healthcare support workflows, private communication, scheduling, recordings, and support systems. |
-| **HolaTrato** | AI-powered WhatsApp automation for real estate agents to qualify leads, recommend listings, and schedule visits. | WhatsApp/Twilio automation, lead workflows, property inventory, appointments, dashboard systems. |
-| **DashCan** | Recycling platform for pickups, payouts, payment methods, withdrawal requests, history, and environmental impact. | SaaS dashboards, scheduling, payments, analytics, bilingual web/product experience. |
-| **Syncom AI** | Direct-response AI copywriting platform for sales letters, ads, emails, social posts, and VSL scripts. | AI workflow design, structured content generation, campaign context handling. |
-
----
-
-## Tech I use
+## toolkit
 
 <div align="center">
 
-### AI / Data / Search
-![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=googlegemini&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white)
-![MongoDB Vector Search](https://img.shields.io/badge/MongoDB%20Vector%20Search-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### ai / data / search
+![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA)
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA)
+![OpenAI](https://img.shields.io/badge/OpenAI-1E1E2E?style=flat-square&logo=openai&logoColor=A6E3A1)
+![RAG](https://img.shields.io/badge/RAG-1E1E2E?style=flat-square&logo=googlegemini&logoColor=CBA6F7)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-1E1E2E?style=flat-square&logo=robotframework&logoColor=F9E2AF)
+![MongoDB Vector Search](https://img.shields.io/badge/MongoDB%20Vector%20Search-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1)
 
-### Frontend / Backend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### frontend / backend
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1E2E?style=flat-square&logo=typescript&logoColor=89B4FA)
+![Python](https://img.shields.io/badge/Python-1E1E2E?style=flat-square&logo=python&logoColor=F9E2AF)
+![Next.js](https://img.shields.io/badge/Next.js-1E1E2E?style=flat-square&logo=nextdotjs&logoColor=CDD6F4)
+![React](https://img.shields.io/badge/React-1E1E2E?style=flat-square&logo=react&logoColor=89DCEB)
+![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=flat-square&logo=nodedotjs&logoColor=A6E3A1)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1E2E?style=flat-square&logo=fastapi&logoColor=94E2D5)
+![Express.js](https://img.shields.io/badge/Express.js-1E1E2E?style=flat-square&logo=express&logoColor=CDD6F4)
+![Django](https://img.shields.io/badge/Django-1E1E2E?style=flat-square&logo=django&logoColor=A6E3A1)
 
-### Cloud / Databases / Product Infra
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+### cloud / infra / product plumbing
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-1E1E2E?style=flat-square&logo=microsoftsqlserver&logoColor=89B4FA)
+![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=CBA6F7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1)
+![Supabase](https://img.shields.io/badge/Supabase-1E1E2E?style=flat-square&logo=supabase&logoColor=A6E3A1)
+![Firebase](https://img.shields.io/badge/Firebase-1E1E2E?style=flat-square&logo=firebase&logoColor=F9E2AF)
+![Auth0](https://img.shields.io/badge/Auth0-1E1E2E?style=flat-square&logo=auth0&logoColor=FAB387)
+![Stripe](https://img.shields.io/badge/Stripe-1E1E2E?style=flat-square&logo=stripe&logoColor=CBA6F7)
+![Twilio](https://img.shields.io/badge/Twilio-1E1E2E?style=flat-square&logo=twilio&logoColor=F38BA8)
 
 </div>
 
 ---
 
-## Public GitHub snapshot
+## github telemetry
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zh10only1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh10only1&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zh10only1&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=CBA6F7&text_color=CDD6F4&icon_color=89B4FA&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh10only1&layout=compact&hide_border=true&bg_color=0B0F14&title_color=CBA6F7&text_color=CDD6F4" />
 
 </div>
 
-> Note: A lot of my serious product work is client/private, so GitHub stats are not the full story. The better signal is the products shipped and the systems designed.
+```text
+╭─ note ──────────────────────────────────────────────────────────────╮
+│ a lot of my serious product work is client/private, so github stats │
+│ are not the full story. the better signal is what has been shipped. │
+╰─────────────────────────────────────────────────────────────────────╯
+```
 
 ---
 
-## A few public things here
+## public repo
 
-- [`xraycore-vless-reality-guide`](https://github.com/zh10only1/xraycore-vless-reality-guide): Practical guide for setting up a self-hosted private proxy tunnel with Xray-core, 3x-ui, VLESS, and REALITY.
+```text
+╭─ ./public ──────────────────────────────────────────────────────────╮
+│ xraycore-vless-reality-guide                                        │
+│ practical guide for a self-hosted private proxy tunnel using        │
+│ xray-core, 3x-ui, VLESS and REALITY                                 │
+╰─────────────────────────────────────────────────────────────────────╯
+```
+
+[`open repo`](https://github.com/zh10only1/xraycore-vless-reality-guide)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7C3AED,100:0EA5E9&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&section=footer" width="100%" />
 
 </div>
