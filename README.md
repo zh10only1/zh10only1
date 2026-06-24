@@ -4,7 +4,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=89B4FA&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Technical+Partner;Full-Stack+Software+Engineer;RAG+systems+%7C+AI+agents+%7C+SaaS+platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=89B4FA&center=true&vCenter=true&width=820&lines=AI%2FFull-Stack+Engineer+%7C+Technical+Partner;RAG+systems+%7C+AI+agents+%7C+SaaS+platforms;from+concepts+to+production-grade+AI+apps)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/mzuhb/"><img src="https://img.shields.io/badge/linkedin-mzuhb-89B4FA?style=flat-square&logo=linkedin&logoColor=CDD6F4&labelColor=1E1E2E" /></a>
@@ -18,7 +18,7 @@
 
 ```text
 ╭─ zain@github ~/profile ───────────────────────────────╮
-│ status   AI Engineer + Technical Partner              │
+│ status   AI/Full-Stack Engineer + Technical Partner    │
 │ company  Outstep Technologies                         │
 │ focus    AI SaaS · RAG · agents · cloud               │
 │ stack    TypeScript · Python · Next.js · FastAPI       │

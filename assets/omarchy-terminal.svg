@@ -1,6 +1,6 @@
-<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="460" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#070B10"/>
       <stop offset="0.55" stop-color="#151827"/>
       <stop offset="1" stop-color="#090D13"/>
@@ -28,15 +28,13 @@
     </style>
   </defs>
 
-  <rect width="1200" height="430" rx="26" fill="url(#bg)"/>
-  <rect x="1.5" y="1.5" width="1197" height="427" rx="24.5" stroke="#313244" stroke-width="3"/>
-  <rect x="34" y="38" width="1132" height="354" rx="10" fill="#111520" stroke="#45475A" stroke-width="2"/>
-  <rect x="35" y="100" width="1130" height="56" fill="#181B2A" opacity="0.82"/>
+  <rect width="1200" height="460" rx="26" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="457" rx="24.5" stroke="#313244" stroke-width="3"/>
+  <rect x="34" y="38" width="1132" height="384" rx="10" fill="#111520" stroke="#45475A" stroke-width="2"/>
 
   <circle cx="64" cy="68" r="8" fill="#F38BA8"/>
   <circle cx="90" cy="68" r="8" fill="#F9E2AF"/>
   <circle cx="116" cy="68" r="8" fill="#A6E3A1"/>
-  <text x="1010" y="75" class="mono muted" font-size="17">~/profile</text>
 
   <g class="float" filter="url(#glow)">
     <text x="70" y="130" class="mono blue" font-size="24">➜</text>
@@ -44,27 +42,25 @@
 
     <text x="70" y="178" class="mono title">M Zain Ul Hassan Baloch</text>
 
-    <text x="70" y="222" class="mono mauve" font-size="25">AI Engineer</text>
-    <text x="252" y="222" class="mono muted" font-size="25">/</text>
-    <text x="284" y="222" class="mono teal" font-size="25">Technical Partner</text>
-    <text x="70" y="265" class="mono blue" font-size="23">Full-Stack Software Engineer</text>
+    <text x="70" y="222" class="mono mauve" font-size="25">AI/Full-Stack Engineer</text>
+    <text x="430" y="222" class="mono muted" font-size="25">/</text>
+    <text x="465" y="222" class="mono teal" font-size="25">Technical Partner</text>
 
-    <text x="70" y="309" class="mono green" font-size="22">RAG · agents · SaaS platforms · cloud apps</text>
-    <text x="70" y="349" class="mono peach" font-size="21">from concepts to production-grade AI apps</text>
+    <text x="70" y="275" class="mono green" font-size="22">RAG · agents · SaaS platforms · cloud apps</text>
+    <text x="70" y="324" class="mono peach" font-size="21">from concepts to production-grade AI apps</text>
 
-    <rect x="70" y="354" width="900" height="1.5" fill="#45475A"/>
-    <text x="70" y="380" class="mono muted" font-size="17">stack:</text>
-    <text x="140" y="380" class="mono blue" font-size="17">TypeScript</text>
-    <text x="244" y="380" class="mono muted" font-size="17">·</text>
-    <text x="266" y="380" class="mono blue" font-size="17">Python</text>
-    <text x="338" y="380" class="mono muted" font-size="17">·</text>
-    <text x="360" y="380" class="mono blue" font-size="17">Next.js</text>
-    <text x="444" y="380" class="mono muted" font-size="17">·</text>
-    <text x="466" y="380" class="mono blue" font-size="17">React</text>
-    <text x="530" y="380" class="mono muted" font-size="17">·</text>
-    <text x="552" y="380" class="mono blue" font-size="17">FastAPI</text>
-    <text x="642" y="380" class="mono muted" font-size="17">·</text>
-    <text x="664" y="380" class="mono blue" font-size="17">Azure</text>
-    <rect x="740" y="364" width="10" height="20" fill="#CDD6F4" class="cursor"/>
+    <text x="70" y="384" class="mono muted" font-size="17">stack:</text>
+    <text x="140" y="384" class="mono blue" font-size="17">TypeScript</text>
+    <text x="244" y="384" class="mono muted" font-size="17">·</text>
+    <text x="266" y="384" class="mono blue" font-size="17">Python</text>
+    <text x="338" y="384" class="mono muted" font-size="17">·</text>
+    <text x="360" y="384" class="mono blue" font-size="17">Next.js</text>
+    <text x="444" y="384" class="mono muted" font-size="17">·</text>
+    <text x="466" y="384" class="mono blue" font-size="17">React</text>
+    <text x="530" y="384" class="mono muted" font-size="17">·</text>
+    <text x="552" y="384" class="mono blue" font-size="17">FastAPI</text>
+    <text x="642" y="384" class="mono muted" font-size="17">·</text>
+    <text x="664" y="384" class="mono blue" font-size="17">Azure</text>
+    <rect x="740" y="368" width="10" height="20" fill="#CDD6F4" class="cursor"/>
   </g>
 </svg>
