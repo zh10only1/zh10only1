@@ -132,12 +132,7 @@ Most of my production work lives in private/client repositories, so this profile
 
 - [`xraycore-vless-reality-guide`](https://github.com/zh10only1/xraycore-vless-reality-guide): Practical guide for setting up a self-hosted private proxy tunnel with Xray-core, 3x-ui, VLESS, and REALITY.
 
----
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/mzuhb/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:m.zainhassanbaloch@gmail.com"><img src="https://img.shields.io/badge/Email-m.zainhassanbaloch%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7C3AED,100:0EA5E9&height=110&section=footer" />
 
