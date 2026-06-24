@@ -54,13 +54,13 @@
     <text x="244" y="384" class="mono muted" font-size="17">·</text>
     <text x="266" y="384" class="mono blue" font-size="17">Python</text>
     <text x="338" y="384" class="mono muted" font-size="17">·</text>
-    <text x="360" y="384" class="mono blue" font-size="17">Next.js</text>
+    <text x="360" y="384" class="mono blue" font-size="17">Node.js</text>
     <text x="444" y="384" class="mono muted" font-size="17">·</text>
-    <text x="466" y="384" class="mono blue" font-size="17">React</text>
-    <text x="530" y="384" class="mono muted" font-size="17">·</text>
-    <text x="552" y="384" class="mono blue" font-size="17">FastAPI</text>
-    <text x="642" y="384" class="mono muted" font-size="17">·</text>
-    <text x="664" y="384" class="mono blue" font-size="17">Azure</text>
-    <rect x="740" y="368" width="10" height="20" fill="#CDD6F4" class="cursor"/>
+    <text x="466" y="384" class="mono blue" font-size="17">React.js</text>
+    <text x="552" y="384" class="mono muted" font-size="17">·</text>
+    <text x="574" y="384" class="mono blue" font-size="17">FastAPI</text>
+    <text x="664" y="384" class="mono muted" font-size="17">·</text>
+    <text x="686" y="384" class="mono blue" font-size="17">Azure</text>
+    <rect x="762" y="368" width="10" height="20" fill="#CDD6F4" class="cursor"/>
   </g>
 </svg>

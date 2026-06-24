@@ -21,7 +21,7 @@
 │ status   AI/Full-Stack Engineer + Technical Partner   │
 │ company  Outstep Technologies                         │
 │ focus    AI SaaS · RAG · agents · cloud               │
-│ stack    TypeScript · Python · Next.js · FastAPI      │
+│ stack    TypeScript · Python · Node.js · FastAPI      │
 │ mode     understand the problem · architect · ship    │
 ╰───────────────────────────────────────────────────────╯
 ```
