@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:111827&height=190&section=header&text=M%20Zain%20Ul%20Hassan%20Baloch&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Technical%20Partner%20%E2%80%A2%20Full-Stack%20Product%20Builder&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:111827&height=190&section=header&text=M%20Zain%20Ul%20Hassan%20Baloch&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Software%20Engineer%20%E2%80%A2%20SaaS%20Product%20Builder&descAlignY=55&descSize=16" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=I+build+AI-powered+SaaS+products.;RAG%2C+agents%2C+memory+systems%2C+and+cloud-native+apps.;From+messy+ideas+to+production-grade+software.)](https://git.io/typing-svg)
 
@@ -18,15 +18,19 @@
 
 ```ts
 type Zain = {
-  role: "AI Engineer" | "Technical Partner" | "Full-Stack Product Builder";
+  role: "AI Engineer" | "Full-Stack Software Engineer" | "SaaS Product Builder";
   company: "Outstep Technologies";
   focus: ["AI SaaS", "RAG", "AI Agents", "Cloud", "Product Architecture"];
   stack: ["TypeScript", "Python", "Next.js", "React", "FastAPI", "Node.js", "Azure"];
-  operatingMode: "think with the product team, architect the system, then ship it";
+  operatingMode: "understand the problem, architect the system, then ship it";
 };
 ```
 
-I build practical AI-driven products for startups, founders, and product teams — not just demos, but systems with auth, payments, dashboards, data pipelines, deployment, and the unglamorous production details that make software actually usable.
+On a journey to craft impactful AI-driven solutions.
+
+Hey, I’m Zain. I love problem-solving, architecting solutions and then using new and innovative technologies to implement them. For the past 3 years, I have been designing, implementing, and deploying scalable AI solutions for various clients and businesses. From concepts on paper to production-grade AI applications.
+
+I don’t just execute tasks, I think alongside you, challenge ideas when needed to build the best possible outcome.
 
 Most of my production work lives in private/client repositories, so this profile is a mix of public experiments, guides, and selected technical snapshots from the kind of products I build professionally.
 
@@ -63,7 +67,7 @@ Most of my production work lives in private/client repositories, so this profile
 
 ## Product work I’m proud of
 
-| Product | What it does | My lane |
+| Product | What it does | Engineering scope |
 |---|---|---|
 | **Earthly Insight** | Eco-conscious AI assistant for writing, research, coding, document/image-assisted chat, subscriptions, and impact tracking. | Full-stack AI engineering, memory architecture, streaming chat, multi-model support, Auth0/Firebase, Stripe/Apple flows, analytics, deployment. |
 | **Altruva AI** | Multi-tenant nonprofit finance SaaS with Tally, a source-grounded assistant for budgets, audits, forecasts, grants, accounting data, and CRM context. | AI/SaaS architecture, document workflows, team/admin flows, source-grounded retrieval, product execution. |
@@ -111,25 +115,6 @@ Most of my production work lives in private/client repositories, so this profile
 
 ---
 
-## My build pattern
-
-```mermaid
-flowchart LR
-    A[Problem / product idea] --> B[Architecture]
-    B --> C[Prototype]
-    C --> D[Production app]
-    D --> E[Auth, billing, analytics]
-    E --> F[Cloud deployment]
-    F --> G[Iteration with users]
-
-    B --> H[RAG / agents / AI workflows]
-    H --> D
-```
-
-I care about the whole path: understanding the business problem, challenging weak assumptions, choosing the right technical shape, and shipping something reliable enough for real users.
-
----
-
 ## Public GitHub snapshot
 
 <div align="center">
@@ -145,23 +130,11 @@ I care about the whole path: understanding the business problem, challenging wea
 
 ## A few public things here
 
-- [`xraycore-vless-reality-guide`](https://github.com/zh10only1/xraycore-vless-reality-guide) — practical guide for setting up a self-hosted private proxy tunnel with Xray-core, 3x-ui, VLESS, and REALITY.
-- [`pollyglot-translation-chatbot`](https://github.com/zh10only1/pollyglot-translation-chatbot) — translation/chatbot experiment in TypeScript.
-- Older learning/projects: full-stack apps, scraping experiments, frontend builds, and university/statistics work.
-
----
-
-## Outside code
-
-- 🧠 Building AI/SaaS products at **Outstep Technologies**
-- 🎓 BS Computer Science, FAST-NUCES — **CGPA 3.80 / 4.0**, Gold Medalist, Top 1%
-- 🤝 I like working with founders and teams who need someone to think through the product, not just execute tickets
+- [`xraycore-vless-reality-guide`](https://github.com/zh10only1/xraycore-vless-reality-guide): Practical guide for setting up a self-hosted private proxy tunnel with Xray-core, 3x-ui, VLESS, and REALITY.
 
 ---
 
 <div align="center">
-
-### If you’re building an AI product and need someone technical to think with you — let’s connect.
 
 <a href="https://www.linkedin.com/in/mzuhb/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:m.zainhassanbaloch@gmail.com"><img src="https://img.shields.io/badge/Email-m.zainhassanbaloch%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
