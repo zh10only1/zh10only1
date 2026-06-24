@@ -14,7 +14,7 @@
 
 </div>
 
-## `whoami`
+## `Whoami`
 
 ```text
 ╭─ zain@github ~/profile ───────────────────────────────╮
@@ -36,7 +36,7 @@ Most of my production work lives in private/client repositories, so this profile
 
 ---
 
-## `I can help with`
+## `I Can Help With`
 
 ```text
 ╭─ I CAN HELP WITH ───────────────────────────────╮
@@ -69,11 +69,11 @@ Most of my production work lives in private/client repositories, so this profile
 
 ---
 
-## `toolkit`
+## `Toolkit`
 
 <div align="center">
 
-### ai / data / search
+### AI / Data / Search
 ![◆ Azure AI Foundry](https://img.shields.io/badge/◆%20Azure%20AI%20Foundry-1E1E2E?style=flat-square&logoColor=89B4FA)
 ![⌕ Azure AI Search](https://img.shields.io/badge/⌕%20Azure%20AI%20Search-1E1E2E?style=flat-square&logoColor=89B4FA)
 ![OpenAI](https://img.shields.io/badge/OpenAI-1E1E2E?style=flat-square&logo=openai&logoColor=A6E3A1)
@@ -81,7 +81,7 @@ Most of my production work lives in private/client repositories, so this profile
 ![▣ AI Agents](https://img.shields.io/badge/▣%20AI%20Agents-1E1E2E?style=flat-square&logoColor=F9E2AF)
 ![MongoDB Vector Search](https://img.shields.io/badge/MongoDB%20Vector%20Search-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1)
 
-### frontend / backend
+### Frontend / Backend
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E1E2E?style=flat-square&logo=typescript&logoColor=89B4FA)
 ![Python](https://img.shields.io/badge/Python-1E1E2E?style=flat-square&logo=python&logoColor=F9E2AF)
 ![Next.js](https://img.shields.io/badge/Next.js-1E1E2E?style=flat-square&logo=nextdotjs&logoColor=CDD6F4)
@@ -91,7 +91,7 @@ Most of my production work lives in private/client repositories, so this profile
 ![Express.js](https://img.shields.io/badge/Express.js-1E1E2E?style=flat-square&logo=express&logoColor=CDD6F4)
 ![Django](https://img.shields.io/badge/Django-1E1E2E?style=flat-square&logo=django&logoColor=A6E3A1)
 
-### cloud / infra / product plumbing
+### Cloud / Infra / Product Plumbing
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-1E1E2E?style=flat-square&logo=microsoftazure&logoColor=89B4FA)
 ![▤ Azure SQL](https://img.shields.io/badge/▤%20Azure%20SQL-1E1E2E?style=flat-square&logoColor=89B4FA)
 ![◈ Azure Cosmos DB](https://img.shields.io/badge/◈%20Azure%20Cosmos%20DB-1E1E2E?style=flat-square&logoColor=CBA6F7)
@@ -106,7 +106,7 @@ Most of my production work lives in private/client repositories, so this profile
 
 ---
 
-## `stats`
+## `Stats`
 
 <div align="center">
 
@@ -116,15 +116,15 @@ Most of my production work lives in private/client repositories, so this profile
 </div>
 
 ```text
-╭─ note ────────────────────────────────────────────────╮
-│ most serious product work is client/private, so       │
-│ github stats are not the full story. shipped work is. │
+╭─ Note ────────────────────────────────────────────────╮
+│ Most serious product work is client/private, so       │
+│ GitHub stats are not the full story. Shipped work is. │
 ╰───────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## `public work`
+## `Public Work`
 
 - [![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=CDD6F4)](https://github.com/zh10only1/xraycore-vless-reality-guide) [![xraycore-vless-reality-guide](https://img.shields.io/badge/xraycore--vless--reality--guide-89B4FA?style=flat-square&logoColor=11111B)](https://github.com/zh10only1/xraycore-vless-reality-guide) - practical guide for a self-hosted private proxy tunnel using Xray-core, 3x-ui, VLESS and REALITY.
 
