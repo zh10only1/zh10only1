@@ -140,8 +140,8 @@ Most of my production work lives in private/client repositories, so this profile
 
 ```text
 ╭─ Note ────────────────────────────────────────────────╮
-│ Most serious product work is client/private, so       │
-│ GitHub stats are not the full story. Shipped work is. │
+│ Stats above count private/client work too. The code   │
+│ itself stays private; shipped products show it.       │
 ╰───────────────────────────────────────────────────────╯
 ```
 
