@@ -133,8 +133,8 @@ Most of my production work lives in private/client repositories, so this profile
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zh10only1&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=CBA6F7&text_color=CDD6F4&icon_color=89B4FA&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh10only1&layout=compact&hide_border=true&bg_color=0B0F14&title_color=CBA6F7&text_color=CDD6F4" />
+<img height="165" src="./assets/stats.svg" alt="GitHub stats, including private work" />
+<img height="165" src="./assets/languages.svg" alt="Top languages across contributed repositories" />
 
 </div>
 
@@ -150,6 +150,8 @@ Most of my production work lives in private/client repositories, so this profile
 ## `Public Work`
 
 - [![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=CDD6F4)](https://github.com/zh10only1/xraycore-vless-reality-guide) [![xraycore-vless-reality-guide](https://img.shields.io/badge/xraycore--vless--reality--guide-89B4FA?style=flat-square&logoColor=11111B)](https://github.com/zh10only1/xraycore-vless-reality-guide) - practical guide for a self-hosted private proxy tunnel using Xray-core, 3x-ui, VLESS and REALITY.
+- [![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=CDD6F4)](https://github.com/zh10only1/linkedin-post-gen-skill) [![linkedin-post-gen-skill](https://img.shields.io/badge/linkedin--post--gen--skill-CBA6F7?style=flat-square&logoColor=11111B)](https://github.com/zh10only1/linkedin-post-gen-skill) - reusable Hermes Agent skill for writing specific, human and credible LinkedIn posts, with a private voice profile.
+- [![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=CDD6F4)](https://github.com/zh10only1/claude-code-mods) [![claude-code-mods](https://img.shields.io/badge/claude--code--mods-A6E3A1?style=flat-square&logoColor=11111B)](https://github.com/zh10only1/claude-code-mods) - Claude Code plugin marketplace with mods like a live token-usage HUD above the prompt, installable in one line.
 
 <div align="center">
 
