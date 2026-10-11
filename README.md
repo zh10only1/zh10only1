@@ -138,13 +138,6 @@ Most of my production work lives in private/client repositories, so this profile
 
 </div>
 
-```text
-╭─ Note ────────────────────────────────────────────────╮
-│ Stats above count private/client work too. The code   │
-│ itself stays private; shipped products show it.       │
-╰───────────────────────────────────────────────────────╯
-```
-
 ---
 
 ## `Public Work`
