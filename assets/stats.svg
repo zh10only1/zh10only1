@@ -12,13 +12,13 @@
   <text x="74" y="27" class="mono muted" font-size="13">~/stats  github --all</text>
   <line x1="1" y1="40" x2="494" y2="40" stroke="#313244" stroke-width="1"/>
   <text x="22" y="68" class="mono muted" font-size="14"><tspan class="green">›</tspan> contributions (last year)</text>
-  <text x="473" y="68" text-anchor="end" class="mono text" font-size="14" font-weight="700">5,057</text>
+  <text x="473" y="68" text-anchor="end" class="mono text" font-size="14" font-weight="700">5,065</text>
   <text x="22" y="92" class="mono muted" font-size="14"><tspan class="teal">›</tspan> contributions (since 2022)</text>
-  <text x="473" y="92" text-anchor="end" class="mono text" font-size="14" font-weight="700">8,197</text>
+  <text x="473" y="92" text-anchor="end" class="mono text" font-size="14" font-weight="700">8,205</text>
   <text x="22" y="116" class="mono muted" font-size="14"><tspan class="blue">›</tspan> commits</text>
-  <text x="473" y="116" text-anchor="end" class="mono text" font-size="14" font-weight="700">6,587</text>
+  <text x="473" y="116" text-anchor="end" class="mono text" font-size="14" font-weight="700">6,593</text>
   <text x="22" y="140" class="mono muted" font-size="14"><tspan class="mauve">›</tspan> pull requests</text>
-  <text x="473" y="140" text-anchor="end" class="mono text" font-size="14" font-weight="700">716  (711 merged)</text>
+  <text x="473" y="140" text-anchor="end" class="mono text" font-size="14" font-weight="700">718  (713 merged)</text>
   <text x="22" y="164" class="mono muted" font-size="14"><tspan class="peach">›</tspan> repos contributed to</text>
   <text x="473" y="164" text-anchor="end" class="mono text" font-size="14" font-weight="700">33</text>
   <text x="477" y="196" text-anchor="end" class="mono dim" font-size="11">updated 2026-10-15 · incl. private work</text>
