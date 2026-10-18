@@ -13,7 +13,7 @@
   <line x1="1" y1="40" x2="494" y2="40" stroke="#313244" stroke-width="1"/>
   <clipPath id="bar"><rect x="22" y="58" width="451" height="10" rx="5"/></clipPath>
   <rect x="22" y="58" width="451" height="10" rx="5" fill="#313244"/>
-  <g clip-path="url(#bar)"><rect x="22.00" y="58" width="394.13" height="10" fill="#3178c6"/><rect x="416.13" y="58" width="19.74" height="10" fill="#f1e05a"/><rect x="435.87" y="58" width="16.65" height="10" fill="#00B4AB"/><rect x="452.52" y="58" width="13.32" height="10" fill="#3572A5"/><rect x="465.84" y="58" width="7.00" height="10" fill="#336790"/></g>
+  <g clip-path="url(#bar)"><rect x="22.00" y="58" width="394.14" height="10" fill="#3178c6"/><rect x="416.14" y="58" width="19.73" height="10" fill="#f1e05a"/><rect x="435.87" y="58" width="16.65" height="10" fill="#00B4AB"/><rect x="452.52" y="58" width="13.32" height="10" fill="#3572A5"/><rect x="465.84" y="58" width="7.00" height="10" fill="#336790"/></g>
   <circle cx="27" cy="92" r="5" fill="#3178c6"/>
   <text x="40" y="96" class="mono text" font-size="14">TypeScript <tspan class="muted">87.4%</tspan></text>
   <circle cx="258.5" cy="92" r="5" fill="#f1e05a"/>
